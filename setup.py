@@ -30,7 +30,7 @@ dependency_links = [x.strip().replace('git+', '') for x in all_reqs \
 
 setup(
     name='cinemator',
-    version='0.1.0',
+    version='0.1.3',
     url='https://github.com/helixphoenix/cinemator',
     license='BSD',
     author='helixphoenix',

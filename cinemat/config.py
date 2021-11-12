@@ -1,6 +1,6 @@
 OMDB_URL = "http://www.omdbapi.com"
 
-API_KEY_PATH = "/Users/duduok/Desktop/secret.txt"
+API_KEY_PATH = "path_to_/secret.txt"
 secrets = open(API_KEY_PATH, "r")
 OMDBAPI_KEY = secrets.read()
 
